@@ -1,0 +1,5283 @@
+{
+  "user_id": "111",
+  "credit_card_limit": 100000,
+  "transactions": [
+    {
+      "date": "2024-01-01",
+      "transactions": [
+        {
+          "transaction_id": 32,
+          "merchant_name": "Uber",
+          "amount": 350.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Ride to meeting",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-02",
+      "transactions": [
+        {
+          "transaction_id": 33,
+          "merchant_name": "Swiggy",
+          "amount": 600.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Lunch",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 33,
+          "merchant_name": "Swiggy",
+          "amount": 600.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Lunch",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-03",
+      "transactions": []
+    },
+    {
+      "date": "2024-01-04",
+      "transactions": []
+    },
+    {
+      "date": "2024-01-05",
+      "transactions": [
+        {
+          "transaction_id": 36,
+          "merchant_name": "Netflix",
+          "amount": 499.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Monthly subscription",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 37,
+          "merchant_name": "Amazon",
+          "amount": 15000.00,
+          "transaction_type": "credit",
+          "category": "other",
+          "status": "Completed",
+          "description": "Refund for returned item",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-06",
+      "transactions": [
+        {
+          "transaction_id": 38,
+          "merchant_name": "Zomato",
+          "amount": 1200.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Dinner with friends",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-07",
+      "transactions": [
+        {
+          "transaction_id": 31,
+          "merchant_name": "Flipkart",
+          "amount": 15000.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Office supplies",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-08",
+      "transactions": [
+        {
+          "transaction_id": 39,
+          "merchant_name": "Uber",
+          "amount": 350.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Ride to airport",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 40,
+          "merchant_name": "Cafe Coffee Day",
+          "amount": 200.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Coffee",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-09",
+      "transactions": []
+    },
+    {
+      "date": "2024-01-10",
+      "transactions": [
+        {
+          "transaction_id": 41,
+          "merchant_name": "Domino's",
+          "amount": 950.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Pizza night",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 42,
+          "merchant_name": "Big Bazaar",
+          "amount": 20000.00,
+          "transaction_type": "debit",
+          "category": "essentials",
+          "status": "Completed",
+          "description": "Groceries",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-11",
+      "transactions": []
+    },
+    {
+      "date": "2024-01-12",
+      "transactions": [
+        {
+          "transaction_id": 43,
+          "merchant_name": "Ola",
+          "amount": 250.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Office commute",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 37,
+          "merchant_name": "Amazon",
+          "amount": 15000.00,
+          "transaction_type": "credit",
+          "category": "other",
+          "status": "Completed",
+          "description": "Refund for returned item",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-13",
+      "transactions": [
+        {
+          "transaction_id": 44,
+          "merchant_name": "IndiGo",
+          "amount": 5000.00,
+          "transaction_type": "debit",
+          "category": "travel",
+          "status": "Completed",
+          "description": "Flight to Delhi",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 45,
+          "merchant_name": "IRCTC",
+          "amount": 1200.00,
+          "transaction_type": "debit",
+          "category": "travel",
+          "status": "Completed",
+          "description": "Train to Mumbai",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-14",
+      "transactions": []
+    },
+    {
+      "date": "2024-01-15",
+      "transactions": []
+    },
+    {
+      "date": "2024-01-16",
+      "transactions": [
+        {
+          "transaction_id": 61,
+          "merchant_name": "Big Bazaar",
+          "amount": 2000.00,
+          "transaction_type": "debit",
+          "category": "essentials",
+          "status": "Completed",
+          "description": "Groceries for the month",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 62,
+          "merchant_name": "Domino's Pizza",
+          "amount": 500.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Pizza for lunch",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 63,
+          "merchant_name": "Amazon",
+          "amount": 1500.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Home appliances",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 64,
+          "merchant_name": "Spotify",
+          "amount": 200.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Music subscription",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 65,
+          "merchant_name": "Uber",
+          "amount": 300.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Ride to office",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 66,
+          "merchant_name": "Fit Gym",
+          "amount": 1500.00,
+          "transaction_type": "debit",
+          "category": "healthFitness",
+          "status": "Completed",
+          "description": "Gym membership renewal",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 67,
+          "merchant_name": "Tata Sky",
+          "amount": 300.00,
+          "transaction_type": "debit",
+          "category": "homeUtilities",
+          "status": "Completed",
+          "description": "TV subscription renewal",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 68,
+          "merchant_name": "Jet Airways",
+          "amount": 7000.00,
+          "transaction_type": "debit",
+          "category": "travel",
+          "status": "Completed",
+          "description": "Flight to Mumbai",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 69,
+          "merchant_name": "Flipkart",
+          "amount": 3000.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Purchase of electronics",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 70,
+          "merchant_name": "Netflix",
+          "amount": 800.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Monthly subscription",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 71,
+          "merchant_name": "Swiggy",
+          "amount": 250.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Evening snacks",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 72,
+          "merchant_name": "Zoomcar",
+          "amount": 1200.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Car rental for weekend trip",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-17",
+      "transactions": [
+        {
+          "transaction_id": 48,
+          "merchant_name": "Swiggy",
+          "amount": 700.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Brunch",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-18",
+      "transactions": [
+        {
+          "transaction_id": 49,
+          "merchant_name": "Uber",
+          "amount": 350.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Commute to office",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-19",
+      "transactions": []
+    },
+    {
+      "date": "2024-01-20",
+      "transactions": [
+        {
+          "transaction_id": 50,
+          "merchant_name": "Big Bazaar",
+          "amount": 1800.00,
+          "transaction_type": "debit",
+          "category": "essentials",
+          "status": "Completed",
+          "description": "Household items",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-21",
+      "transactions": [
+        {
+          "transaction_id": 51,
+          "merchant_name": "Flipkart",
+          "amount": 3000.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Electronics",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-22",
+      "transactions": []
+    },
+    {
+      "date": "2024-01-23",
+      "transactions": [
+        {
+          "transaction_id": 52,
+          "merchant_name": "Swiggy",
+          "amount": 500.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Lunch",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-24",
+      "transactions": [
+        {
+          "transaction_id": 53,
+          "merchant_name": "Uber",
+          "amount": 400.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Commute to mall",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-25",
+      "transactions": []
+    },
+    {
+      "date": "2024-01-26",
+      "transactions": [
+        {
+          "transaction_id": 54,
+          "merchant_name": "BookMyShow",
+          "amount": 800.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Movie tickets",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-27",
+      "transactions": [
+        {
+          "transaction_id": 55,
+          "merchant_name": "Decathlon",
+          "amount": 1000.00,
+          "transaction_type": "debit",
+          "category": "healthFitness",
+          "status": "Completed",
+          "description": "Running shoes",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-28",
+      "transactions": []
+    },
+    {
+      "date": "2024-01-29",
+      "transactions": [
+        {
+          "transaction_id": 56,
+          "merchant_name": "Uber",
+          "amount": 350.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Commute to office",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-30",
+      "transactions": []
+    },
+    {
+      "date": "2024-01-31",
+      "transactions": [
+        {
+          "transaction_id": 57,
+          "merchant_name": "Amazon",
+          "amount": 2400.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Books",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 58,
+          "merchant_name": "Uber",
+          "amount": 350.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Commute to airport",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-01",
+      "transactions": [
+        {
+          "transaction_id": 1,
+          "merchant_name": "Big Bazaar",
+          "amount": 2000.00,
+          "transaction_type": "debit",
+          "category": "essentials",
+          "status": "Completed",
+          "description": "Groceries",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 2,
+          "merchant_name": "Cafe Coffee Day",
+          "amount": 450.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Coffee with friends",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-02",
+      "transactions": [
+        {
+          "transaction_id": 3,
+          "merchant_name": "Ola",
+          "amount": 300.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Ride to office",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 4,
+          "merchant_name": "Amazon",
+          "amount": 1200.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Books and stationery",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-03",
+      "transactions": [
+        {
+          "transaction_id": 5,
+          "merchant_name": "Swiggy",
+          "amount": 600.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Dinner delivery",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 6,
+          "merchant_name": "Health & Fitness Gym",
+          "amount": 1500.00,
+          "transaction_type": "debit",
+          "category": "healthFitness",
+          "status": "Completed",
+          "description": "Monthly gym membership",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-04",
+      "transactions": []
+    },
+    {
+      "date": "2024-02-05",
+      "transactions": [
+        {
+          "transaction_id": 7,
+          "merchant_name": "IndiGo",
+          "amount": 5000.00,
+          "transaction_type": "debit",
+          "category": "travel",
+          "status": "Completed",
+          "description": "Flight ticket to Mumbai",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-06",
+      "transactions": [
+        {
+          "transaction_id": 8,
+          "merchant_name": "Netflix",
+          "amount": 499.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Monthly subscription",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-07",
+      "transactions": [
+        {
+          "transaction_id": 9,
+          "merchant_name": "Uber",
+          "amount": 250.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Ride to meeting",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 10,
+          "merchant_name": "Domino's",
+          "amount": 800.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Pizza night with family",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-08",
+      "transactions": [
+        {
+          "transaction_id": 11,
+          "merchant_name": "BookMyShow",
+          "amount": 400.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Movie ticket",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-09",
+      "transactions": [
+        {
+          "transaction_id": 12,
+          "merchant_name": "Home Depot",
+          "amount": 1500.00,
+          "transaction_type": "debit",
+          "category": "homeUtilities",
+          "status": "Completed",
+          "description": "Home improvement supplies",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-10",
+      "transactions": [
+        {
+          "transaction_id": 13,
+          "merchant_name": "HDFC Bank",
+          "amount": 250.00,
+          "transaction_type": "credit",
+          "category": "other",
+          "status": "Completed",
+          "description": "Cashback from previous purchases",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-11",
+      "transactions": [
+        {
+          "transaction_id": 14,
+          "merchant_name": "Lulu Mall",
+          "amount": 3200.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Clothing shopping",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-12",
+      "transactions": [
+        {
+          "transaction_id": 15,
+          "merchant_name": "Swiggy",
+          "amount": 700.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Lunch with friends",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-13",
+      "transactions": [
+        {
+          "transaction_id": 16,
+          "merchant_name": "Amazon",
+          "amount": 999.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Home appliances",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-14",
+      "transactions": [
+        {
+          "transaction_id": 17,
+          "merchant_name": "IRCTC",
+          "amount": 1200.00,
+          "transaction_type": "debit",
+          "category": "travel",
+          "status": "Completed",
+          "description": "Train ticket to Delhi",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-15",
+      "transactions": []
+    },
+    {
+      "date": "2024-02-16",
+      "transactions": [
+        {
+          "transaction_id": 18,
+          "merchant_name": "Zomato",
+          "amount": 500.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Dinner",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-17",
+      "transactions": [
+        {
+          "transaction_id": 19,
+          "merchant_name": "Walmart",
+          "amount": 3000.00,
+          "transaction_type": "debit",
+          "category": "essentials",
+          "status": "Completed",
+          "description": "Monthly supplies",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-18",
+      "transactions": []
+    },
+    {
+      "date": "2024-02-19",
+      "transactions": [
+        {
+          "transaction_id": 20,
+          "merchant_name": "Netflix",
+          "amount": 499.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Monthly subscription",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 37,
+          "merchant_name": "Amazon",
+          "amount": 15000.00,
+          "transaction_type": "credit",
+          "category": "other",
+          "status": "Completed",
+          "description": "Refund for returned item",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-20",
+      "transactions": [
+        {
+          "transaction_id": 21,
+          "merchant_name": "Decathlon",
+          "amount": 2000.00,
+          "transaction_type": "debit",
+          "category": "healthFitness",
+          "status": "Completed",
+          "description": "Gym gear",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-21",
+      "transactions": [
+        {
+          "transaction_id": 22,
+          "merchant_name": "KFC",
+          "amount": 600.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Family dinner",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-22",
+      "transactions": [
+        {
+          "transaction_id": 23,
+          "merchant_name": "Travelocity",
+          "amount": 7000.00,
+          "transaction_type": "debit",
+          "category": "travel",
+          "status": "Completed",
+          "description": "Hotel booking",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-23",
+      "transactions": []
+    },
+    {
+      "date": "2024-02-24",
+      "transactions": [
+        {
+          "transaction_id": 24,
+          "merchant_name": "Shoppers Stop",
+          "amount": 3000.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Winter clothing",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-25",
+      "transactions": [
+        {
+          "transaction_id": 25,
+          "merchant_name": "Paytm",
+          "amount": 1000.00,
+          "transaction_type": "debit",
+          "category": "other",
+          "status": "Completed",
+          "description": "Payment for services",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-26",
+      "transactions": []
+    },
+    {
+      "date": "2024-02-27",
+      "transactions": [
+        {
+          "transaction_id": 26,
+          "merchant_name": "Flipkart",
+          "amount": 2500.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Electronics purchase",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-28",
+      "transactions": [
+        {
+          "transaction_id": 27,
+          "merchant_name": "Zomato",
+          "amount": 400.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Lunch with colleagues",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-29",
+      "transactions": [
+        {
+          "transaction_id": 28,
+          "merchant_name": "MyFitnessPal",
+          "amount": 299.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Fitness app subscription",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-03-01",
+      "transactions": [
+        {
+          "transaction_id": 32,
+          "merchant_name": "Uber",
+          "amount": 350.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Ride to meeting",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-03-02",
+      "transactions": [
+        {
+          "transaction_id": 33,
+          "merchant_name": "Swiggy",
+          "amount": 600.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Lunch",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 33,
+          "merchant_name": "Swiggy",
+          "amount": 600.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Lunch",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-03-03",
+      "transactions": []
+    },
+    {
+      "date": "2024-03-04",
+      "transactions": []
+    },
+    {
+      "date": "2024-03-05",
+      "transactions": [
+        {
+          "transaction_id": 36,
+          "merchant_name": "Netflix",
+          "amount": 499.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Monthly subscription",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 37,
+          "merchant_name": "Amazon",
+          "amount": 15000.00,
+          "transaction_type": "credit",
+          "category": "other",
+          "status": "Completed",
+          "description": "Refund for returned item",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 61,
+          "merchant_name": "Big Bazaar",
+          "amount": 2000.00,
+          "transaction_type": "debit",
+          "category": "essentials",
+          "status": "Completed",
+          "description": "Groceries for the month",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 62,
+          "merchant_name": "Domino's Pizza",
+          "amount": 500.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Pizza for lunch",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 63,
+          "merchant_name": "Amazon",
+          "amount": 1500.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Home appliances",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 64,
+          "merchant_name": "Spotify",
+          "amount": 200.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Music subscription",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 65,
+          "merchant_name": "Uber",
+          "amount": 300.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Ride to office",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 66,
+          "merchant_name": "Fit Gym",
+          "amount": 1500.00,
+          "transaction_type": "debit",
+          "category": "healthFitness",
+          "status": "Completed",
+          "description": "Gym membership renewal",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 67,
+          "merchant_name": "Tata Sky",
+          "amount": 300.00,
+          "transaction_type": "debit",
+          "category": "homeUtilities",
+          "status": "Completed",
+          "description": "TV subscription renewal",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 68,
+          "merchant_name": "Jet Airways",
+          "amount": 3000.00,
+          "transaction_type": "debit",
+          "category": "travel",
+          "status": "Completed",
+          "description": "Flight to Mumbai",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 69,
+          "merchant_name": "Flipkart",
+          "amount": 3000.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Purchase of electronics",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 70,
+          "merchant_name": "Netflix",
+          "amount": 800.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Monthly subscription",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 71,
+          "merchant_name": "Swiggy",
+          "amount": 250.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Evening snacks",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-03-06",
+      "transactions": [
+        {
+          "transaction_id": 38,
+          "merchant_name": "Zomato",
+          "amount": 1200.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Dinner with friends",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-03-07",
+      "transactions": [
+        {
+          "transaction_id": 31,
+          "merchant_name": "Flipkart",
+          "amount": 15000.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Office supplies",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-03-08",
+      "transactions": [
+        {
+          "transaction_id": 39,
+          "merchant_name": "Uber",
+          "amount": 350.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Ride to airport",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 40,
+          "merchant_name": "Cafe Coffee Day",
+          "amount": 200.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Coffee",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-03-09",
+      "transactions": []
+    },
+    {
+      "date": "2024-03-10",
+      "transactions": [
+        {
+          "transaction_id": 41,
+          "merchant_name": "Domino's",
+          "amount": 950.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Pizza night",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 42,
+          "merchant_name": "Big Bazaar",
+          "amount": 20000.00,
+          "transaction_type": "debit",
+          "category": "essentials",
+          "status": "Completed",
+          "description": "Groceries",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-03-11",
+      "transactions": []
+    },
+    {
+      "date": "2024-03-12",
+      "transactions": [
+        {
+          "transaction_id": 43,
+          "merchant_name": "Ola",
+          "amount": 250.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Office commute",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-03-13",
+      "transactions": [
+        {
+          "transaction_id": 44,
+          "merchant_name": "IndiGo",
+          "amount": 5000.00,
+          "transaction_type": "debit",
+          "category": "travel",
+          "status": "Completed",
+          "description": "Flight to Delhi",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 45,
+          "merchant_name": "IRCTC",
+          "amount": 1200.00,
+          "transaction_type": "debit",
+          "category": "travel",
+          "status": "Completed",
+          "description": "Train to Mumbai",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-03-14",
+      "transactions": [
+        {
+          "transaction_id": 37,
+          "merchant_name": "Amazon",
+          "amount": 15000.00,
+          "transaction_type": "credit",
+          "category": "other",
+          "status": "Completed",
+          "description": "Refund for returned item",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-03-15",
+      "transactions": []
+    },
+    {
+      "date": "2024-03-16",
+      "transactions": [
+        {
+          "transaction_id": 61,
+          "merchant_name": "Big Bazaar",
+          "amount": 2000.00,
+          "transaction_type": "debit",
+          "category": "essentials",
+          "status": "Completed",
+          "description": "Groceries for the month",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 62,
+          "merchant_name": "Domino's Pizza",
+          "amount": 500.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Pizza for lunch",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 63,
+          "merchant_name": "Amazon",
+          "amount": 1500.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Home appliances",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 64,
+          "merchant_name": "Spotify",
+          "amount": 200.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Music subscription",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 65,
+          "merchant_name": "Uber",
+          "amount": 300.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Ride to office",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 66,
+          "merchant_name": "Fit Gym",
+          "amount": 1500.00,
+          "transaction_type": "debit",
+          "category": "healthFitness",
+          "status": "Completed",
+          "description": "Gym membership renewal",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 67,
+          "merchant_name": "Tata Sky",
+          "amount": 300.00,
+          "transaction_type": "debit",
+          "category": "homeUtilities",
+          "status": "Completed",
+          "description": "TV subscription renewal",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 68,
+          "merchant_name": "Jet Airways",
+          "amount": 7000.00,
+          "transaction_type": "debit",
+          "category": "travel",
+          "status": "Completed",
+          "description": "Flight to Mumbai",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 69,
+          "merchant_name": "Flipkart",
+          "amount": 3000.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Purchase of electronics",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 70,
+          "merchant_name": "Netflix",
+          "amount": 800.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Monthly subscription",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 71,
+          "merchant_name": "Swiggy",
+          "amount": 250.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Evening snacks",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 72,
+          "merchant_name": "Zoomcar",
+          "amount": 1200.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Car rental for weekend trip",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-03-17",
+      "transactions": [
+        {
+          "transaction_id": 48,
+          "merchant_name": "Swiggy",
+          "amount": 700.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Brunch",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-03-18",
+      "transactions": [
+        {
+          "transaction_id": 49,
+          "merchant_name": "Uber",
+          "amount": 350.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Commute to office",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-03-19",
+      "transactions": []
+    },
+    {
+      "date": "2024-03-20",
+      "transactions": [
+        {
+          "transaction_id": 50,
+          "merchant_name": "Big Bazaar",
+          "amount": 1800.00,
+          "transaction_type": "debit",
+          "category": "essentials",
+          "status": "Completed",
+          "description": "Household items",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-03-21",
+      "transactions": [
+        {
+          "transaction_id": 51,
+          "merchant_name": "Flipkart",
+          "amount": 3000.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Electronics",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-03-22",
+      "transactions": []
+    },
+    {
+      "date": "2024-03-23",
+      "transactions": [
+        {
+          "transaction_id": 52,
+          "merchant_name": "Swiggy",
+          "amount": 500.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Lunch",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-03-24",
+      "transactions": [
+        {
+          "transaction_id": 53,
+          "merchant_name": "Uber",
+          "amount": 400.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Commute to mall",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-03-25",
+      "transactions": []
+    },
+    {
+      "date": "2024-03-26",
+      "transactions": [
+        {
+          "transaction_id": 54,
+          "merchant_name": "BookMyShow",
+          "amount": 800.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Movie tickets",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-03-27",
+      "transactions": [
+        {
+          "transaction_id": 55,
+          "merchant_name": "Decathlon",
+          "amount": 1000.00,
+          "transaction_type": "debit",
+          "category": "healthFitness",
+          "status": "Completed",
+          "description": "Running shoes",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-03-28",
+      "transactions": []
+    },
+    {
+      "date": "2024-03-29",
+      "transactions": [
+        {
+          "transaction_id": 56,
+          "merchant_name": "Uber",
+          "amount": 350.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Commute to office",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-03-30",
+      "transactions": []
+    },
+    {
+      "date": "2024-03-31",
+      "transactions": [
+        {
+          "transaction_id": 57,
+          "merchant_name": "Amazon",
+          "amount": 2400.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Books",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 58,
+          "merchant_name": "Uber",
+          "amount": 350.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Commute to airport",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-01",
+      "transactions": [
+        {
+          "transaction_id": 32,
+          "merchant_name": "Uber",
+          "amount": 350.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Ride to meeting",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-02",
+      "transactions": [
+        {
+          "transaction_id": 33,
+          "merchant_name": "Swiggy",
+          "amount": 600.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Lunch",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 33,
+          "merchant_name": "Swiggy",
+          "amount": 600.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Lunch",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-03",
+      "transactions": []
+    },
+    {
+      "date": "2024-04-04",
+      "transactions": []
+    },
+    {
+      "date": "2024-04-05",
+      "transactions": [
+        {
+          "transaction_id": 36,
+          "merchant_name": "Netflix",
+          "amount": 499.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Monthly subscription",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 37,
+          "merchant_name": "Amazon",
+          "amount": 15000.00,
+          "transaction_type": "credit",
+          "category": "other",
+          "status": "Completed",
+          "description": "Refund for returned item",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-06",
+      "transactions": [
+        {
+          "transaction_id": 38,
+          "merchant_name": "Zomato",
+          "amount": 1200.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Dinner with friends",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-07",
+      "transactions": [
+        {
+          "transaction_id": 31,
+          "merchant_name": "Flipkart",
+          "amount": 15000.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Office supplies",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-08",
+      "transactions": [
+        {
+          "transaction_id": 39,
+          "merchant_name": "Uber",
+          "amount": 350.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Ride to airport",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 40,
+          "merchant_name": "Cafe Coffee Day",
+          "amount": 200.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Coffee",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-09",
+      "transactions": []
+    },
+    {
+      "date": "2024-04-10",
+      "transactions": [
+        {
+          "transaction_id": 41,
+          "merchant_name": "Domino's",
+          "amount": 950.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Pizza night",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 42,
+          "merchant_name": "Big Bazaar",
+          "amount": 20000.00,
+          "transaction_type": "debit",
+          "category": "essentials",
+          "status": "Completed",
+          "description": "Groceries",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-11",
+      "transactions": []
+    },
+    {
+      "date": "2024-04-12",
+      "transactions": [
+        {
+          "transaction_id": 43,
+          "merchant_name": "Ola",
+          "amount": 250.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Office commute",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 37,
+          "merchant_name": "Amazon",
+          "amount": 15000.00,
+          "transaction_type": "credit",
+          "category": "other",
+          "status": "Completed",
+          "description": "Refund for returned item",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-13",
+      "transactions": [
+        {
+          "transaction_id": 44,
+          "merchant_name": "IndiGo",
+          "amount": 5000.00,
+          "transaction_type": "debit",
+          "category": "travel",
+          "status": "Completed",
+          "description": "Flight to Delhi",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 45,
+          "merchant_name": "IRCTC",
+          "amount": 1200.00,
+          "transaction_type": "debit",
+          "category": "travel",
+          "status": "Completed",
+          "description": "Train to Mumbai",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-14",
+      "transactions": []
+    },
+    {
+      "date": "2024-04-15",
+      "transactions": []
+    },
+    {
+      "date": "2024-04-16",
+      "transactions": [
+        {
+          "transaction_id": 61,
+          "merchant_name": "Big Bazaar",
+          "amount": 2000.00,
+          "transaction_type": "debit",
+          "category": "essentials",
+          "status": "Completed",
+          "description": "Groceries for the month",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 62,
+          "merchant_name": "Domino's Pizza",
+          "amount": 500.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Pizza for lunch",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 63,
+          "merchant_name": "Amazon",
+          "amount": 1500.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Home appliances",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 64,
+          "merchant_name": "Spotify",
+          "amount": 200.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Music subscription",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 65,
+          "merchant_name": "Uber",
+          "amount": 300.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Ride to office",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 66,
+          "merchant_name": "Fit Gym",
+          "amount": 1500.00,
+          "transaction_type": "debit",
+          "category": "healthFitness",
+          "status": "Completed",
+          "description": "Gym membership renewal",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 67,
+          "merchant_name": "Tata Sky",
+          "amount": 300.00,
+          "transaction_type": "debit",
+          "category": "homeUtilities",
+          "status": "Completed",
+          "description": "TV subscription renewal",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 68,
+          "merchant_name": "Jet Airways",
+          "amount": 7000.00,
+          "transaction_type": "debit",
+          "category": "travel",
+          "status": "Completed",
+          "description": "Flight to Mumbai",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 69,
+          "merchant_name": "Flipkart",
+          "amount": 3000.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Purchase of electronics",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 70,
+          "merchant_name": "Netflix",
+          "amount": 800.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Monthly subscription",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 71,
+          "merchant_name": "Swiggy",
+          "amount": 250.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Evening snacks",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 72,
+          "merchant_name": "Zoomcar",
+          "amount": 1200.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Car rental for weekend trip",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-17",
+      "transactions": [
+        {
+          "transaction_id": 48,
+          "merchant_name": "Swiggy",
+          "amount": 700.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Brunch",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-18",
+      "transactions": [
+        {
+          "transaction_id": 49,
+          "merchant_name": "Uber",
+          "amount": 350.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Commute to office",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-19",
+      "transactions": []
+    },
+    {
+      "date": "2024-04-20",
+      "transactions": [
+        {
+          "transaction_id": 50,
+          "merchant_name": "Big Bazaar",
+          "amount": 1800.00,
+          "transaction_type": "debit",
+          "category": "essentials",
+          "status": "Completed",
+          "description": "Household items",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-21",
+      "transactions": [
+        {
+          "transaction_id": 51,
+          "merchant_name": "Flipkart",
+          "amount": 3000.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Electronics",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-22",
+      "transactions": []
+    },
+    {
+      "date": "2024-04-23",
+      "transactions": [
+        {
+          "transaction_id": 52,
+          "merchant_name": "Swiggy",
+          "amount": 500.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Lunch",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-24",
+      "transactions": [
+        {
+          "transaction_id": 53,
+          "merchant_name": "Uber",
+          "amount": 400.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Commute to mall",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-25",
+      "transactions": []
+    },
+    {
+      "date": "2024-04-26",
+      "transactions": [
+        {
+          "transaction_id": 54,
+          "merchant_name": "BookMyShow",
+          "amount": 800.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Movie tickets",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-27",
+      "transactions": [
+        {
+          "transaction_id": 55,
+          "merchant_name": "Decathlon",
+          "amount": 1000.00,
+          "transaction_type": "debit",
+          "category": "healthFitness",
+          "status": "Completed",
+          "description": "Running shoes",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-28",
+      "transactions": []
+    },
+    {
+      "date": "2024-04-29",
+      "transactions": [
+        {
+          "transaction_id": 56,
+          "merchant_name": "Uber",
+          "amount": 350.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Commute to office",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-30",
+      "transactions": []
+    },
+    {
+      "date": "2024-05-01",
+      "transactions": [
+        {
+          "transaction_id": 1,
+          "merchant_name": "Big Bazaar",
+          "amount": 2000.00,
+          "transaction_type": "debit",
+          "category": "essentials",
+          "status": "Completed",
+          "description": "Groceries",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 2,
+          "merchant_name": "Cafe Coffee Day",
+          "amount": 450.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Coffee with friends",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-02",
+      "transactions": [
+        {
+          "transaction_id": 3,
+          "merchant_name": "Ola",
+          "amount": 300.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Ride to office",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 4,
+          "merchant_name": "Amazon",
+          "amount": 1200.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Books and stationery",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-03",
+      "transactions": [
+        {
+          "transaction_id": 5,
+          "merchant_name": "Swiggy",
+          "amount": 600.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Dinner delivery",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 6,
+          "merchant_name": "Health & Fitness Gym",
+          "amount": 1500.00,
+          "transaction_type": "debit",
+          "category": "healthFitness",
+          "status": "Completed",
+          "description": "Monthly gym membership",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-04",
+      "transactions": []
+    },
+    {
+      "date": "2024-05-05",
+      "transactions": [
+        {
+          "transaction_id": 7,
+          "merchant_name": "IndiGo",
+          "amount": 5000.00,
+          "transaction_type": "debit",
+          "category": "travel",
+          "status": "Completed",
+          "description": "Flight ticket to Mumbai",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-06",
+      "transactions": [
+        {
+          "transaction_id": 8,
+          "merchant_name": "Netflix",
+          "amount": 499.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Monthly subscription",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-07",
+      "transactions": [
+        {
+          "transaction_id": 9,
+          "merchant_name": "Uber",
+          "amount": 250.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Ride to meeting",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 10,
+          "merchant_name": "Domino's",
+          "amount": 800.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Pizza night with family",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-08",
+      "transactions": [
+        {
+          "transaction_id": 11,
+          "merchant_name": "BookMyShow",
+          "amount": 400.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Movie ticket",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-09",
+      "transactions": [
+        {
+          "transaction_id": 12,
+          "merchant_name": "Home Depot",
+          "amount": 1500.00,
+          "transaction_type": "debit",
+          "category": "homeUtilities",
+          "status": "Completed",
+          "description": "Home improvement supplies",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-10",
+      "transactions": [
+        {
+          "transaction_id": 13,
+          "merchant_name": "HDFC Bank",
+          "amount": 250.00,
+          "transaction_type": "credit",
+          "category": "other",
+          "status": "Completed",
+          "description": "Cashback from previous purchases",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-11",
+      "transactions": [
+        {
+          "transaction_id": 14,
+          "merchant_name": "Lulu Mall",
+          "amount": 3200.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Clothing shopping",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-12",
+      "transactions": [
+        {
+          "transaction_id": 15,
+          "merchant_name": "Swiggy",
+          "amount": 700.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Lunch with friends",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-13",
+      "transactions": [
+        {
+          "transaction_id": 16,
+          "merchant_name": "Amazon",
+          "amount": 999.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Home appliances",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-14",
+      "transactions": [
+        {
+          "transaction_id": 17,
+          "merchant_name": "IRCTC",
+          "amount": 1200.00,
+          "transaction_type": "debit",
+          "category": "travel",
+          "status": "Completed",
+          "description": "Train ticket to Delhi",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-15",
+      "transactions": []
+    },
+    {
+      "date": "2024-05-16",
+      "transactions": [
+        {
+          "transaction_id": 18,
+          "merchant_name": "Zomato",
+          "amount": 500.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Dinner",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-17",
+      "transactions": [
+        {
+          "transaction_id": 19,
+          "merchant_name": "Walmart",
+          "amount": 3000.00,
+          "transaction_type": "debit",
+          "category": "essentials",
+          "status": "Completed",
+          "description": "Monthly supplies",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-18",
+      "transactions": []
+    },
+    {
+      "date": "2024-05-19",
+      "transactions": [
+        {
+          "transaction_id": 20,
+          "merchant_name": "Netflix",
+          "amount": 499.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Monthly subscription",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-20",
+      "transactions": [
+        {
+          "transaction_id": 21,
+          "merchant_name": "Decathlon",
+          "amount": 2000.00,
+          "transaction_type": "debit",
+          "category": "healthFitness",
+          "status": "Completed",
+          "description": "Gym gear",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-21",
+      "transactions": [
+        {
+          "transaction_id": 22,
+          "merchant_name": "KFC",
+          "amount": 600.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Family dinner",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-22",
+      "transactions": [
+        {
+          "transaction_id": 23,
+          "merchant_name": "Travelocity",
+          "amount": 7000.00,
+          "transaction_type": "debit",
+          "category": "travel",
+          "status": "Completed",
+          "description": "Hotel booking",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-23",
+      "transactions": []
+    },
+    {
+      "date": "2024-05-24",
+      "transactions": [
+        {
+          "transaction_id": 24,
+          "merchant_name": "Shoppers Stop",
+          "amount": 3000.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Winter clothing",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-25",
+      "transactions": [
+        {
+          "transaction_id": 25,
+          "merchant_name": "Paytm",
+          "amount": 1000.00,
+          "transaction_type": "debit",
+          "category": "other",
+          "status": "Completed",
+          "description": "Payment for services",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-26",
+      "transactions": []
+    },
+    {
+      "date": "2024-05-27",
+      "transactions": [
+        {
+          "transaction_id": 26,
+          "merchant_name": "Flipkart",
+          "amount": 2500.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Electronics purchase",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-28",
+      "transactions": [
+        {
+          "transaction_id": 27,
+          "merchant_name": "Zomato",
+          "amount": 400.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Lunch with colleagues",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-29",
+      "transactions": [
+        {
+          "transaction_id": 28,
+          "merchant_name": "MyFitnessPal",
+          "amount": 299.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Fitness app subscription",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-30",
+      "transactions": [
+        {
+          "transaction_id": 29,
+          "merchant_name": "Home Center",
+          "amount": 4000.00,
+          "transaction_type": "debit",
+          "category": "homeUtilities",
+          "status": "Completed",
+          "description": "Home decor",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-31",
+      "transactions": [
+        {
+          "transaction_id": 30,
+          "merchant_name": "Café Coffee Day",
+          "amount": 500.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Coffee meeting",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-01",
+      "transactions": [
+        {
+          "transaction_id": 32,
+          "merchant_name": "Uber",
+          "amount": 350.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Ride to meeting",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-02",
+      "transactions": [
+        {
+          "transaction_id": 33,
+          "merchant_name": "Swiggy",
+          "amount": 600.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Lunch",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 33,
+          "merchant_name": "Swiggy",
+          "amount": 600.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Lunch",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-03",
+      "transactions": []
+    },
+    {
+      "date": "2024-06-04",
+      "transactions": []
+    },
+    {
+      "date": "2024-06-05",
+      "transactions": [
+        {
+          "transaction_id": 36,
+          "merchant_name": "Netflix",
+          "amount": 499.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Monthly subscription",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 37,
+          "merchant_name": "Amazon",
+          "amount": 15000.00,
+          "transaction_type": "credit",
+          "category": "other",
+          "status": "Completed",
+          "description": "Refund for returned item",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 61,
+          "merchant_name": "Big Bazaar",
+          "amount": 2000.00,
+          "transaction_type": "debit",
+          "category": "essentials",
+          "status": "Completed",
+          "description": "Groceries for the month",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 62,
+          "merchant_name": "Domino's Pizza",
+          "amount": 500.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Pizza for lunch",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 63,
+          "merchant_name": "Amazon",
+          "amount": 1500.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Home appliances",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 64,
+          "merchant_name": "Spotify",
+          "amount": 200.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Music subscription",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 65,
+          "merchant_name": "Uber",
+          "amount": 300.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Ride to office",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 66,
+          "merchant_name": "Fit Gym",
+          "amount": 1500.00,
+          "transaction_type": "debit",
+          "category": "healthFitness",
+          "status": "Completed",
+          "description": "Gym membership renewal",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 67,
+          "merchant_name": "Tata Sky",
+          "amount": 300.00,
+          "transaction_type": "debit",
+          "category": "homeUtilities",
+          "status": "Completed",
+          "description": "TV subscription renewal",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 68,
+          "merchant_name": "Jet Airways",
+          "amount": 3000.00,
+          "transaction_type": "debit",
+          "category": "travel",
+          "status": "Completed",
+          "description": "Flight to Mumbai",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 69,
+          "merchant_name": "Flipkart",
+          "amount": 3000.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Purchase of electronics",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 70,
+          "merchant_name": "Netflix",
+          "amount": 800.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Monthly subscription",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 71,
+          "merchant_name": "Swiggy",
+          "amount": 250.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Evening snacks",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-06",
+      "transactions": [
+        {
+          "transaction_id": 38,
+          "merchant_name": "Zomato",
+          "amount": 1200.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Dinner with friends",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-07",
+      "transactions": [
+        {
+          "transaction_id": 31,
+          "merchant_name": "Flipkart",
+          "amount": 15000.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Office supplies",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-08",
+      "transactions": [
+        {
+          "transaction_id": 39,
+          "merchant_name": "Uber",
+          "amount": 350.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Ride to airport",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 40,
+          "merchant_name": "Cafe Coffee Day",
+          "amount": 200.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Coffee",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-09",
+      "transactions": []
+    },
+    {
+      "date": "2024-06-10",
+      "transactions": [
+        {
+          "transaction_id": 41,
+          "merchant_name": "Domino's",
+          "amount": 950.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Pizza night",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 42,
+          "merchant_name": "Big Bazaar",
+          "amount": 20000.00,
+          "transaction_type": "debit",
+          "category": "essentials",
+          "status": "Completed",
+          "description": "Groceries",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-11",
+      "transactions": []
+    },
+    {
+      "date": "2024-06-12",
+      "transactions": [
+        {
+          "transaction_id": 43,
+          "merchant_name": "Ola",
+          "amount": 250.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Office commute",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-13",
+      "transactions": [
+        {
+          "transaction_id": 44,
+          "merchant_name": "IndiGo",
+          "amount": 5000.00,
+          "transaction_type": "debit",
+          "category": "travel",
+          "status": "Completed",
+          "description": "Flight to Delhi",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 45,
+          "merchant_name": "IRCTC",
+          "amount": 1200.00,
+          "transaction_type": "debit",
+          "category": "travel",
+          "status": "Completed",
+          "description": "Train to Mumbai",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-14",
+      "transactions": [
+        {
+          "transaction_id": 37,
+          "merchant_name": "Amazon",
+          "amount": 15000.00,
+          "transaction_type": "credit",
+          "category": "other",
+          "status": "Completed",
+          "description": "Refund for returned item",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-15",
+      "transactions": []
+    },
+    {
+      "date": "2024-06-16",
+      "transactions": [
+        {
+          "transaction_id": 61,
+          "merchant_name": "Big Bazaar",
+          "amount": 2000.00,
+          "transaction_type": "debit",
+          "category": "essentials",
+          "status": "Completed",
+          "description": "Groceries for the month",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 62,
+          "merchant_name": "Domino's Pizza",
+          "amount": 500.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Pizza for lunch",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 63,
+          "merchant_name": "Amazon",
+          "amount": 1500.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Home appliances",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 64,
+          "merchant_name": "Spotify",
+          "amount": 200.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Music subscription",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 65,
+          "merchant_name": "Uber",
+          "amount": 300.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Ride to office",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 66,
+          "merchant_name": "Fit Gym",
+          "amount": 1500.00,
+          "transaction_type": "debit",
+          "category": "healthFitness",
+          "status": "Completed",
+          "description": "Gym membership renewal",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 67,
+          "merchant_name": "Tata Sky",
+          "amount": 300.00,
+          "transaction_type": "debit",
+          "category": "homeUtilities",
+          "status": "Completed",
+          "description": "TV subscription renewal",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 68,
+          "merchant_name": "Jet Airways",
+          "amount": 7000.00,
+          "transaction_type": "debit",
+          "category": "travel",
+          "status": "Completed",
+          "description": "Flight to Mumbai",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 69,
+          "merchant_name": "Flipkart",
+          "amount": 3000.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Purchase of electronics",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 70,
+          "merchant_name": "Netflix",
+          "amount": 800.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Monthly subscription",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 71,
+          "merchant_name": "Swiggy",
+          "amount": 250.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Evening snacks",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 72,
+          "merchant_name": "Zoomcar",
+          "amount": 1200.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Car rental for weekend trip",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-17",
+      "transactions": [
+        {
+          "transaction_id": 48,
+          "merchant_name": "Swiggy",
+          "amount": 700.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Brunch",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-18",
+      "transactions": [
+        {
+          "transaction_id": 49,
+          "merchant_name": "Uber",
+          "amount": 350.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Commute to office",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-19",
+      "transactions": []
+    },
+    {
+      "date": "2024-06-20",
+      "transactions": [
+        {
+          "transaction_id": 50,
+          "merchant_name": "Big Bazaar",
+          "amount": 1800.00,
+          "transaction_type": "debit",
+          "category": "essentials",
+          "status": "Completed",
+          "description": "Household items",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-21",
+      "transactions": [
+        {
+          "transaction_id": 51,
+          "merchant_name": "Flipkart",
+          "amount": 3000.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Electronics",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-22",
+      "transactions": []
+    },
+    {
+      "date": "2024-06-23",
+      "transactions": [
+        {
+          "transaction_id": 52,
+          "merchant_name": "Swiggy",
+          "amount": 500.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Lunch",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-24",
+      "transactions": [
+        {
+          "transaction_id": 53,
+          "merchant_name": "Uber",
+          "amount": 400.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Commute to mall",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-25",
+      "transactions": []
+    },
+    {
+      "date": "2024-06-26",
+      "transactions": [
+        {
+          "transaction_id": 54,
+          "merchant_name": "BookMyShow",
+          "amount": 800.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Movie tickets",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-27",
+      "transactions": [
+        {
+          "transaction_id": 55,
+          "merchant_name": "Decathlon",
+          "amount": 1000.00,
+          "transaction_type": "debit",
+          "category": "healthFitness",
+          "status": "Completed",
+          "description": "Running shoes",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-28",
+      "transactions": []
+    },
+    {
+      "date": "2024-06-29",
+      "transactions": [
+        {
+          "transaction_id": 56,
+          "merchant_name": "Uber",
+          "amount": 350.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Commute to office",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-30",
+      "transactions": []
+    },
+    {
+      "date": "2024-07-01",
+      "transactions": [
+        {
+          "transaction_id": 32,
+          "merchant_name": "Uber",
+          "amount": 350.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Ride to meeting",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-02",
+      "transactions": [
+        {
+          "transaction_id": 33,
+          "merchant_name": "Swiggy",
+          "amount": 600.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Lunch",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 33,
+          "merchant_name": "Swiggy",
+          "amount": 600.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Lunch",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-03",
+      "transactions": []
+    },
+    {
+      "date": "2024-07-04",
+      "transactions": []
+    },
+    {
+      "date": "2024-07-05",
+      "transactions": [
+        {
+          "transaction_id": 36,
+          "merchant_name": "Netflix",
+          "amount": 499.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Monthly subscription",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 37,
+          "merchant_name": "Amazon",
+          "amount": 15000.00,
+          "transaction_type": "credit",
+          "category": "other",
+          "status": "Completed",
+          "description": "Refund for returned item",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-06",
+      "transactions": [
+        {
+          "transaction_id": 38,
+          "merchant_name": "Zomato",
+          "amount": 1200.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Dinner with friends",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-07",
+      "transactions": [
+        {
+          "transaction_id": 31,
+          "merchant_name": "Flipkart",
+          "amount": 15000.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Office supplies",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-08",
+      "transactions": [
+        {
+          "transaction_id": 39,
+          "merchant_name": "Uber",
+          "amount": 350.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Ride to airport",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 40,
+          "merchant_name": "Cafe Coffee Day",
+          "amount": 200.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Coffee",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-09",
+      "transactions": []
+    },
+    {
+      "date": "2024-07-10",
+      "transactions": [
+        {
+          "transaction_id": 41,
+          "merchant_name": "Domino's",
+          "amount": 950.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Pizza night",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 42,
+          "merchant_name": "Big Bazaar",
+          "amount": 20000.00,
+          "transaction_type": "debit",
+          "category": "essentials",
+          "status": "Completed",
+          "description": "Groceries",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-11",
+      "transactions": []
+    },
+    {
+      "date": "2024-07-12",
+      "transactions": [
+        {
+          "transaction_id": 43,
+          "merchant_name": "Ola",
+          "amount": 250.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Office commute",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 37,
+          "merchant_name": "Amazon",
+          "amount": 15000.00,
+          "transaction_type": "credit",
+          "category": "other",
+          "status": "Completed",
+          "description": "Refund for returned item",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-13",
+      "transactions": [
+        {
+          "transaction_id": 44,
+          "merchant_name": "IndiGo",
+          "amount": 5000.00,
+          "transaction_type": "debit",
+          "category": "travel",
+          "status": "Completed",
+          "description": "Flight to Delhi",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 45,
+          "merchant_name": "IRCTC",
+          "amount": 1200.00,
+          "transaction_type": "debit",
+          "category": "travel",
+          "status": "Completed",
+          "description": "Train to Mumbai",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-14",
+      "transactions": []
+    },
+    {
+      "date": "2024-07-15",
+      "transactions": []
+    },
+    {
+      "date": "2024-07-16",
+      "transactions": [
+        {
+          "transaction_id": 61,
+          "merchant_name": "Big Bazaar",
+          "amount": 2000.00,
+          "transaction_type": "debit",
+          "category": "essentials",
+          "status": "Completed",
+          "description": "Groceries for the month",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 62,
+          "merchant_name": "Domino's Pizza",
+          "amount": 500.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Pizza for lunch",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 63,
+          "merchant_name": "Amazon",
+          "amount": 1500.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Home appliances",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 64,
+          "merchant_name": "Spotify",
+          "amount": 200.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Music subscription",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 65,
+          "merchant_name": "Uber",
+          "amount": 300.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Ride to office",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 66,
+          "merchant_name": "Fit Gym",
+          "amount": 1500.00,
+          "transaction_type": "debit",
+          "category": "healthFitness",
+          "status": "Completed",
+          "description": "Gym membership renewal",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 67,
+          "merchant_name": "Tata Sky",
+          "amount": 300.00,
+          "transaction_type": "debit",
+          "category": "homeUtilities",
+          "status": "Completed",
+          "description": "TV subscription renewal",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 68,
+          "merchant_name": "Jet Airways",
+          "amount": 7000.00,
+          "transaction_type": "debit",
+          "category": "travel",
+          "status": "Completed",
+          "description": "Flight to Mumbai",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 69,
+          "merchant_name": "Flipkart",
+          "amount": 3000.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Purchase of electronics",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 70,
+          "merchant_name": "Netflix",
+          "amount": 800.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Monthly subscription",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 71,
+          "merchant_name": "Swiggy",
+          "amount": 250.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Evening snacks",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 72,
+          "merchant_name": "Zoomcar",
+          "amount": 1200.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Car rental for weekend trip",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-17",
+      "transactions": [
+        {
+          "transaction_id": 48,
+          "merchant_name": "Swiggy",
+          "amount": 700.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Brunch",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-18",
+      "transactions": [
+        {
+          "transaction_id": 49,
+          "merchant_name": "Uber",
+          "amount": 350.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Commute to office",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-19",
+      "transactions": []
+    },
+    {
+      "date": "2024-07-20",
+      "transactions": [
+        {
+          "transaction_id": 50,
+          "merchant_name": "Big Bazaar",
+          "amount": 1800.00,
+          "transaction_type": "debit",
+          "category": "essentials",
+          "status": "Completed",
+          "description": "Household items",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-21",
+      "transactions": [
+        {
+          "transaction_id": 51,
+          "merchant_name": "Flipkart",
+          "amount": 3000.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Electronics",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-22",
+      "transactions": []
+    },
+    {
+      "date": "2024-07-23",
+      "transactions": [
+        {
+          "transaction_id": 52,
+          "merchant_name": "Swiggy",
+          "amount": 500.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Lunch",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-24",
+      "transactions": [
+        {
+          "transaction_id": 53,
+          "merchant_name": "Uber",
+          "amount": 400.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Commute to mall",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-25",
+      "transactions": []
+    },
+    {
+      "date": "2024-07-26",
+      "transactions": [
+        {
+          "transaction_id": 54,
+          "merchant_name": "BookMyShow",
+          "amount": 800.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Movie tickets",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-27",
+      "transactions": [
+        {
+          "transaction_id": 55,
+          "merchant_name": "Decathlon",
+          "amount": 1000.00,
+          "transaction_type": "debit",
+          "category": "healthFitness",
+          "status": "Completed",
+          "description": "Running shoes",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-28",
+      "transactions": []
+    },
+    {
+      "date": "2024-07-29",
+      "transactions": [
+        {
+          "transaction_id": 56,
+          "merchant_name": "Uber",
+          "amount": 350.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Commute to office",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-30",
+      "transactions": []
+    },
+    {
+      "date": "2024-07-31",
+      "transactions": [
+        {
+          "transaction_id": 57,
+          "merchant_name": "Amazon",
+          "amount": 2400.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Books",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 58,
+          "merchant_name": "Uber",
+          "amount": 350.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Commute to airport",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-01",
+      "transactions": [
+        {
+          "transaction_id": 32,
+          "merchant_name": "Uber",
+          "amount": 350.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Ride to meeting",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-02",
+      "transactions": [
+        {
+          "transaction_id": 33,
+          "merchant_name": "Swiggy",
+          "amount": 600.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Lunch",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 33,
+          "merchant_name": "Swiggy",
+          "amount": 600.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Lunch",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-03",
+      "transactions": []
+    },
+    {
+      "date": "2024-08-04",
+      "transactions": []
+    },
+    {
+      "date": "2024-08-05",
+      "transactions": [
+        {
+          "transaction_id": 36,
+          "merchant_name": "Netflix",
+          "amount": 499.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Monthly subscription",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 37,
+          "merchant_name": "Amazon",
+          "amount": 15000.00,
+          "transaction_type": "credit",
+          "category": "other",
+          "status": "Completed",
+          "description": "Refund for returned item",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 61,
+          "merchant_name": "Big Bazaar",
+          "amount": 2000.00,
+          "transaction_type": "debit",
+          "category": "essentials",
+          "status": "Completed",
+          "description": "Groceries for the month",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 62,
+          "merchant_name": "Domino's Pizza",
+          "amount": 500.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Pizza for lunch",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 63,
+          "merchant_name": "Amazon",
+          "amount": 1500.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Home appliances",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 64,
+          "merchant_name": "Spotify",
+          "amount": 200.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Music subscription",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 65,
+          "merchant_name": "Uber",
+          "amount": 300.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Ride to office",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 66,
+          "merchant_name": "Fit Gym",
+          "amount": 1500.00,
+          "transaction_type": "debit",
+          "category": "healthFitness",
+          "status": "Completed",
+          "description": "Gym membership renewal",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 67,
+          "merchant_name": "Tata Sky",
+          "amount": 300.00,
+          "transaction_type": "debit",
+          "category": "homeUtilities",
+          "status": "Completed",
+          "description": "TV subscription renewal",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 68,
+          "merchant_name": "Jet Airways",
+          "amount": 3000.00,
+          "transaction_type": "debit",
+          "category": "travel",
+          "status": "Completed",
+          "description": "Flight to Mumbai",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 69,
+          "merchant_name": "Flipkart",
+          "amount": 3000.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Purchase of electronics",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 70,
+          "merchant_name": "Netflix",
+          "amount": 800.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Monthly subscription",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 71,
+          "merchant_name": "Swiggy",
+          "amount": 250.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Evening snacks",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-06",
+      "transactions": [
+        {
+          "transaction_id": 38,
+          "merchant_name": "Zomato",
+          "amount": 1200.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Dinner with friends",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-07",
+      "transactions": [
+        {
+          "transaction_id": 31,
+          "merchant_name": "Flipkart",
+          "amount": 15000.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Office supplies",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-08",
+      "transactions": [
+        {
+          "transaction_id": 39,
+          "merchant_name": "Uber",
+          "amount": 350.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Ride to airport",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 40,
+          "merchant_name": "Cafe Coffee Day",
+          "amount": 200.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Coffee",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-09",
+      "transactions": []
+    },
+    {
+      "date": "2024-08-10",
+      "transactions": [
+        {
+          "transaction_id": 41,
+          "merchant_name": "Domino's",
+          "amount": 950.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Pizza night",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 42,
+          "merchant_name": "Big Bazaar",
+          "amount": 20000.00,
+          "transaction_type": "debit",
+          "category": "essentials",
+          "status": "Completed",
+          "description": "Groceries",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-11",
+      "transactions": []
+    },
+    {
+      "date": "2024-08-12",
+      "transactions": [
+        {
+          "transaction_id": 43,
+          "merchant_name": "Ola",
+          "amount": 250.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Office commute",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-13",
+      "transactions": [
+        {
+          "transaction_id": 44,
+          "merchant_name": "IndiGo",
+          "amount": 5000.00,
+          "transaction_type": "debit",
+          "category": "travel",
+          "status": "Completed",
+          "description": "Flight to Delhi",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 45,
+          "merchant_name": "IRCTC",
+          "amount": 1200.00,
+          "transaction_type": "debit",
+          "category": "travel",
+          "status": "Completed",
+          "description": "Train to Mumbai",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-14",
+      "transactions": [
+        {
+          "transaction_id": 37,
+          "merchant_name": "Amazon",
+          "amount": 15000.00,
+          "transaction_type": "credit",
+          "category": "other",
+          "status": "Completed",
+          "description": "Refund for returned item",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-15",
+      "transactions": []
+    },
+    {
+      "date": "2024-08-16",
+      "transactions": [
+        {
+          "transaction_id": 61,
+          "merchant_name": "Big Bazaar",
+          "amount": 2000.00,
+          "transaction_type": "debit",
+          "category": "essentials",
+          "status": "Completed",
+          "description": "Groceries for the month",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 62,
+          "merchant_name": "Domino's Pizza",
+          "amount": 500.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Pizza for lunch",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 63,
+          "merchant_name": "Amazon",
+          "amount": 1500.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Home appliances",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 64,
+          "merchant_name": "Spotify",
+          "amount": 200.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Music subscription",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 65,
+          "merchant_name": "Uber",
+          "amount": 300.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Ride to office",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 66,
+          "merchant_name": "Fit Gym",
+          "amount": 1500.00,
+          "transaction_type": "debit",
+          "category": "healthFitness",
+          "status": "Completed",
+          "description": "Gym membership renewal",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 67,
+          "merchant_name": "Tata Sky",
+          "amount": 300.00,
+          "transaction_type": "debit",
+          "category": "homeUtilities",
+          "status": "Completed",
+          "description": "TV subscription renewal",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 68,
+          "merchant_name": "Jet Airways",
+          "amount": 7000.00,
+          "transaction_type": "debit",
+          "category": "travel",
+          "status": "Completed",
+          "description": "Flight to Mumbai",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 69,
+          "merchant_name": "Flipkart",
+          "amount": 3000.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Purchase of electronics",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 70,
+          "merchant_name": "Netflix",
+          "amount": 800.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Monthly subscription",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 71,
+          "merchant_name": "Swiggy",
+          "amount": 250.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Evening snacks",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 72,
+          "merchant_name": "Zoomcar",
+          "amount": 1200.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Car rental for weekend trip",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-17",
+      "transactions": [
+        {
+          "transaction_id": 48,
+          "merchant_name": "Swiggy",
+          "amount": 700.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Brunch",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-18",
+      "transactions": [
+        {
+          "transaction_id": 49,
+          "merchant_name": "Uber",
+          "amount": 350.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Commute to office",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-19",
+      "transactions": []
+    },
+    {
+      "date": "2024-08-20",
+      "transactions": [
+        {
+          "transaction_id": 50,
+          "merchant_name": "Big Bazaar",
+          "amount": 1800.00,
+          "transaction_type": "debit",
+          "category": "essentials",
+          "status": "Completed",
+          "description": "Household items",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-21",
+      "transactions": [
+        {
+          "transaction_id": 51,
+          "merchant_name": "Flipkart",
+          "amount": 3000.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Electronics",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-22",
+      "transactions": []
+    },
+    {
+      "date": "2024-08-23",
+      "transactions": [
+        {
+          "transaction_id": 52,
+          "merchant_name": "Swiggy",
+          "amount": 500.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Lunch",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-24",
+      "transactions": [
+        {
+          "transaction_id": 53,
+          "merchant_name": "Uber",
+          "amount": 400.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Commute to mall",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-25",
+      "transactions": []
+    },
+    {
+      "date": "2024-08-26",
+      "transactions": [
+        {
+          "transaction_id": 54,
+          "merchant_name": "BookMyShow",
+          "amount": 800.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Movie tickets",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-27",
+      "transactions": [
+        {
+          "transaction_id": 55,
+          "merchant_name": "Decathlon",
+          "amount": 1000.00,
+          "transaction_type": "debit",
+          "category": "healthFitness",
+          "status": "Completed",
+          "description": "Running shoes",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-28",
+      "transactions": []
+    },
+    {
+      "date": "2024-08-29",
+      "transactions": [
+        {
+          "transaction_id": 56,
+          "merchant_name": "Uber",
+          "amount": 350.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Commute to office",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-30",
+      "transactions": []
+    },
+    {
+      "date": "2024-08-31",
+      "transactions": [
+        {
+          "transaction_id": 57,
+          "merchant_name": "Amazon",
+          "amount": 2400.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Books",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 58,
+          "merchant_name": "Uber",
+          "amount": 350.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Commute to airport",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-01",
+      "transactions": [
+        {
+          "transaction_id": 1,
+          "merchant_name": "Big Bazaar",
+          "amount": 2000.00,
+          "transaction_type": "debit",
+          "category": "essentials",
+          "status": "Completed",
+          "description": "Groceries",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 2,
+          "merchant_name": "Cafe Coffee Day",
+          "amount": 450.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Coffee with friends",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-02",
+      "transactions": [
+        {
+          "transaction_id": 3,
+          "merchant_name": "Ola",
+          "amount": 300.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Ride to office",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 4,
+          "merchant_name": "Amazon",
+          "amount": 1200.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Books and stationery",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-03",
+      "transactions": [
+        {
+          "transaction_id": 5,
+          "merchant_name": "Swiggy",
+          "amount": 600.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Dinner delivery",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 6,
+          "merchant_name": "Health & Fitness Gym",
+          "amount": 1500.00,
+          "transaction_type": "debit",
+          "category": "healthFitness",
+          "status": "Completed",
+          "description": "Monthly gym membership",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-04",
+      "transactions": []
+    },
+    {
+      "date": "2024-09-05",
+      "transactions": [
+        {
+          "transaction_id": 7,
+          "merchant_name": "IndiGo",
+          "amount": 5000.00,
+          "transaction_type": "debit",
+          "category": "travel",
+          "status": "Completed",
+          "description": "Flight ticket to Mumbai",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-06",
+      "transactions": [
+        {
+          "transaction_id": 8,
+          "merchant_name": "Netflix",
+          "amount": 499.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Monthly subscription",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-07",
+      "transactions": [
+        {
+          "transaction_id": 9,
+          "merchant_name": "Uber",
+          "amount": 250.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Ride to meeting",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 10,
+          "merchant_name": "Domino's",
+          "amount": 800.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Pizza night with family",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-08",
+      "transactions": [
+        {
+          "transaction_id": 11,
+          "merchant_name": "BookMyShow",
+          "amount": 400.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Movie ticket",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-09",
+      "transactions": [
+        {
+          "transaction_id": 12,
+          "merchant_name": "Home Depot",
+          "amount": 1500.00,
+          "transaction_type": "debit",
+          "category": "homeUtilities",
+          "status": "Completed",
+          "description": "Home improvement supplies",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-10",
+      "transactions": [
+        {
+          "transaction_id": 13,
+          "merchant_name": "HDFC Bank",
+          "amount": 250.00,
+          "transaction_type": "credit",
+          "category": "other",
+          "status": "Completed",
+          "description": "Cashback from previous purchases",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-11",
+      "transactions": [
+        {
+          "transaction_id": 14,
+          "merchant_name": "Lulu Mall",
+          "amount": 3200.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Clothing shopping",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-12",
+      "transactions": [
+        {
+          "transaction_id": 15,
+          "merchant_name": "Swiggy",
+          "amount": 700.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Lunch with friends",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-13",
+      "transactions": [
+        {
+          "transaction_id": 16,
+          "merchant_name": "Amazon",
+          "amount": 999.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Home appliances",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-14",
+      "transactions": [
+        {
+          "transaction_id": 17,
+          "merchant_name": "IRCTC",
+          "amount": 1200.00,
+          "transaction_type": "debit",
+          "category": "travel",
+          "status": "Completed",
+          "description": "Train ticket to Delhi",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-15",
+      "transactions": []
+    },
+    {
+      "date": "2024-09-16",
+      "transactions": [
+        {
+          "transaction_id": 18,
+          "merchant_name": "Zomato",
+          "amount": 500.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Dinner",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-17",
+      "transactions": [
+        {
+          "transaction_id": 19,
+          "merchant_name": "Walmart",
+          "amount": 3000.00,
+          "transaction_type": "debit",
+          "category": "essentials",
+          "status": "Completed",
+          "description": "Monthly supplies",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-18",
+      "transactions": []
+    },
+    {
+      "date": "2024-09-19",
+      "transactions": [
+        {
+          "transaction_id": 20,
+          "merchant_name": "Netflix",
+          "amount": 499.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Monthly subscription",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 37,
+          "merchant_name": "Amazon",
+          "amount": 15000.00,
+          "transaction_type": "credit",
+          "category": "other",
+          "status": "Completed",
+          "description": "Refund for returned item",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-20",
+      "transactions": [
+        {
+          "transaction_id": 21,
+          "merchant_name": "Decathlon",
+          "amount": 2000.00,
+          "transaction_type": "debit",
+          "category": "healthFitness",
+          "status": "Completed",
+          "description": "Gym gear",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-21",
+      "transactions": [
+        {
+          "transaction_id": 22,
+          "merchant_name": "KFC",
+          "amount": 600.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Family dinner",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-22",
+      "transactions": [
+        {
+          "transaction_id": 23,
+          "merchant_name": "Travelocity",
+          "amount": 7000.00,
+          "transaction_type": "debit",
+          "category": "travel",
+          "status": "Completed",
+          "description": "Hotel booking",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-23",
+      "transactions": []
+    },
+    {
+      "date": "2024-09-24",
+      "transactions": [
+        {
+          "transaction_id": 24,
+          "merchant_name": "Shoppers Stop",
+          "amount": 3000.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Winter clothing",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-25",
+      "transactions": [
+        {
+          "transaction_id": 25,
+          "merchant_name": "Paytm",
+          "amount": 1000.00,
+          "transaction_type": "debit",
+          "category": "other",
+          "status": "Completed",
+          "description": "Payment for services",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-26",
+      "transactions": []
+    },
+    {
+      "date": "2024-09-27",
+      "transactions": [
+        {
+          "transaction_id": 26,
+          "merchant_name": "Flipkart",
+          "amount": 2500.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Electronics purchase",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-28",
+      "transactions": [
+        {
+          "transaction_id": 27,
+          "merchant_name": "Zomato",
+          "amount": 400.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Lunch with colleagues",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-29",
+      "transactions": [
+        {
+          "transaction_id": 28,
+          "merchant_name": "MyFitnessPal",
+          "amount": 299.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Fitness app subscription",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-30",
+      "transactions": [
+        {
+          "transaction_id": 26,
+          "merchant_name": "Flipkart",
+          "amount": 2500.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Electronics purchase",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-10-01",
+      "transactions": [
+        {
+          "transaction_id": 32,
+          "merchant_name": "Uber",
+          "amount": 350.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Ride to meeting",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-10-02",
+      "transactions": [
+        {
+          "transaction_id": 33,
+          "merchant_name": "Swiggy",
+          "amount": 600.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Lunch",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 33,
+          "merchant_name": "Swiggy",
+          "amount": 600.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Lunch",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-10-03",
+      "transactions": []
+    },
+    {
+      "date": "2024-10-04",
+      "transactions": []
+    },
+    {
+      "date": "2024-10-05",
+      "transactions": [
+        {
+          "transaction_id": 36,
+          "merchant_name": "Netflix",
+          "amount": 499.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Monthly subscription",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 37,
+          "merchant_name": "Amazon",
+          "amount": 15000.00,
+          "transaction_type": "credit",
+          "category": "other",
+          "status": "Completed",
+          "description": "Refund for returned item",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-10-06",
+      "transactions": [
+        {
+          "transaction_id": 38,
+          "merchant_name": "Zomato",
+          "amount": 1200.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Dinner with friends",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-10-07",
+      "transactions": [
+        {
+          "transaction_id": 61,
+          "merchant_name": "Big Bazaar",
+          "amount": 2000.00,
+          "transaction_type": "debit",
+          "category": "essentials",
+          "status": "Completed",
+          "description": "Groceries for the month",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 62,
+          "merchant_name": "Domino's Pizza",
+          "amount": 500.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Pizza for lunch",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 63,
+          "merchant_name": "Amazon",
+          "amount": 1500.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Home appliances",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 64,
+          "merchant_name": "Spotify",
+          "amount": 200.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Music subscription",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 65,
+          "merchant_name": "Uber",
+          "amount": 300.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Ride to office",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 66,
+          "merchant_name": "Fit Gym",
+          "amount": 1500.00,
+          "transaction_type": "debit",
+          "category": "healthFitness",
+          "status": "Completed",
+          "description": "Gym membership renewal",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 67,
+          "merchant_name": "Tata Sky",
+          "amount": 300.00,
+          "transaction_type": "debit",
+          "category": "homeUtilities",
+          "status": "Completed",
+          "description": "TV subscription renewal",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 68,
+          "merchant_name": "Jet Airways",
+          "amount": 7000.00,
+          "transaction_type": "debit",
+          "category": "travel",
+          "status": "Completed",
+          "description": "Flight to Mumbai",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 69,
+          "merchant_name": "Flipkart",
+          "amount": 3000.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Purchase of electronics",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 70,
+          "merchant_name": "Netflix",
+          "amount": 800.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Monthly subscription",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 71,
+          "merchant_name": "Swiggy",
+          "amount": 250.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Evening snacks",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 72,
+          "merchant_name": "Zoomcar",
+          "amount": 1200.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Car rental for weekend trip",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 31,
+          "merchant_name": "Flipkart",
+          "amount": 15000.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Office supplies",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-10-08",
+      "transactions": [
+        {
+          "transaction_id": 39,
+          "merchant_name": "Uber",
+          "amount": 350.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Ride to airport",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 40,
+          "merchant_name": "Cafe Coffee Day",
+          "amount": 200.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Coffee",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-10-09",
+      "transactions": []
+    },
+    {
+      "date": "2024-10-10",
+      "transactions": [
+        {
+          "transaction_id": 41,
+          "merchant_name": "Domino's",
+          "amount": 950.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Pizza night",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 42,
+          "merchant_name": "Big Bazaar",
+          "amount": 20000.00,
+          "transaction_type": "debit",
+          "category": "essentials",
+          "status": "Completed",
+          "description": "Groceries",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-10-11",
+      "transactions": []
+    },
+    {
+      "date": "2024-10-12",
+      "transactions": [
+        {
+          "transaction_id": 43,
+          "merchant_name": "Ola",
+          "amount": 250.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Office commute",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 37,
+          "merchant_name": "Amazon",
+          "amount": 15000.00,
+          "transaction_type": "credit",
+          "category": "other",
+          "status": "Completed",
+          "description": "Refund for returned item",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-10-13",
+      "transactions": [
+        {
+          "transaction_id": 44,
+          "merchant_name": "IndiGo",
+          "amount": 5000.00,
+          "transaction_type": "debit",
+          "category": "travel",
+          "status": "Completed",
+          "description": "Flight to Delhi",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 45,
+          "merchant_name": "IRCTC",
+          "amount": 1200.00,
+          "transaction_type": "debit",
+          "category": "travel",
+          "status": "Completed",
+          "description": "Train to Mumbai",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-10-14",
+      "transactions": []
+    },
+    {
+      "date": "2024-10-15",
+      "transactions": []
+    },
+    {
+      "date": "2024-10-16",
+      "transactions": [
+        {
+          "transaction_id": 61,
+          "merchant_name": "Big Bazaar",
+          "amount": 2000.00,
+          "transaction_type": "debit",
+          "category": "essentials",
+          "status": "Completed",
+          "description": "Groceries for the month",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 62,
+          "merchant_name": "Domino's Pizza",
+          "amount": 500.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Pizza for lunch",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 37,
+          "merchant_name": "Amazon",
+          "amount": 1500.00,
+          "transaction_type": "credit",
+          "category": "other",
+          "status": "Completed",
+          "description": "Refund for returned item",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 63,
+          "merchant_name": "Amazon",
+          "amount": 1500.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Home appliances",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 64,
+          "merchant_name": "Spotify",
+          "amount": 200.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Music subscription",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 65,
+          "merchant_name": "Uber",
+          "amount": 300.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Ride to office",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 66,
+          "merchant_name": "Fit Gym",
+          "amount": 1500.00,
+          "transaction_type": "debit",
+          "category": "healthFitness",
+          "status": "Completed",
+          "description": "Gym membership renewal",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 67,
+          "merchant_name": "Tata Sky",
+          "amount": 300.00,
+          "transaction_type": "debit",
+          "category": "homeUtilities",
+          "status": "Completed",
+          "description": "TV subscription renewal",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 68,
+          "merchant_name": "Jet Airways",
+          "amount": 7000.00,
+          "transaction_type": "debit",
+          "category": "travel",
+          "status": "Completed",
+          "description": "Flight to Mumbai",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 69,
+          "merchant_name": "Flipkart",
+          "amount": 3000.00,
+          "transaction_type": "debit",
+          "category": "shopping",
+          "status": "Completed",
+          "description": "Purchase of electronics",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 70,
+          "merchant_name": "Netflix",
+          "amount": 800.00,
+          "transaction_type": "debit",
+          "category": "subscriptions",
+          "status": "Completed",
+          "description": "Monthly subscription",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 71,
+          "merchant_name": "Swiggy",
+          "amount": 250.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Evening snacks",
+          "currency": "INR"
+        },
+        {
+          "transaction_id": 72,
+          "merchant_name": "Zoomcar",
+          "amount": 1200.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Car rental for weekend trip",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-10-17",
+      "transactions": [
+        {
+          "transaction_id": 48,
+          "merchant_name": "Swiggy",
+          "amount": 700.00,
+          "transaction_type": "debit",
+          "category": "diningEntertainment",
+          "status": "Completed",
+          "description": "Brunch",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-10-18",
+      "transactions": [
+        {
+          "transaction_id": 49,
+          "merchant_name": "Uber",
+          "amount": 350.00,
+          "transaction_type": "debit",
+          "category": "transportation",
+          "status": "Completed",
+          "description": "Commute to office",
+          "currency": "INR"
+        }
+      ]
+    },
+    {
+      "date": "2024-10-19",
+      "transactions": []
+    },
+    {
+      "date": "2024-10-20",
+      "transactions": [
+        {
+          "transaction_id": 50,
+          "merchant_name": "Big Bazaar",
+          "amount": 1800.00,
+          "transaction_type": "debit",
+          "category": "essentials",
+          "status": "Completed",
+          "description": "Household items",
+          "currency": "INR"
+        }
+      ]
+    }
+  ]
+}
+
+
