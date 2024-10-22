@@ -4,38 +4,14 @@ class _Cell extends StatelessWidget {
   final DailySpendingSummary transaction;
   final VoidCallback onTap;
   final CellType type;
+  final double opacity;
 
   const _Cell({
     required this.transaction,
     required this.onTap,
     required this.type,
+    required this.opacity,
   });
-
-  Color? _getColor(HeatMapChartConfiguration config) {
-    final double percentage = _getPercentage(
-      transaction.totalSpending(false),
-      config.maximumSpendingLimit.toDouble(),
-    );
-
-    if (percentage > 0) {
-      // Find the appropriate threshold for the current percentage
-
-      // This will work as  validator of list is not sorted according the given percentage
-      double lastComparedWith = 0;
-      for (final threshold in config.spendingThreshold) {
-        if (percentage < threshold.percentage &&
-            lastComparedWith < threshold.percentage) {
-          // If the current percentage is less than this threshold,
-          // return the previous threshold color
-          return config.cellColor.withOpacity(threshold.opacity);
-        }
-      }
-      // If all thresholds are surpassed, return the highest threshold color
-      return config.cellColor;
-    }
-
-    return null; // No spending or falls outside the threshold
-  }
 
   double _getPercentage(double current, double total) {
     if (total == 0) return 0;
@@ -43,7 +19,7 @@ class _Cell extends StatelessWidget {
   }
 
   BoxDecoration _getDecoration(HeatMapChartConfiguration config) {
-    final Color? cellColor = _getColor(config);
+    final cellColor = config.cellColor.withOpacity(opacity);
 
     // Check if custom decoration is provided, apply it with color modification
     final customDecoration = config.cellDecoration?.call(type);

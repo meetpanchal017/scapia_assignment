@@ -65,12 +65,25 @@ class MonthlySpendingHeatChart extends StatelessWidget {
     }
   }
 
+  double normaliseOpacity(
+    double current,
+    double max,
+    double min,
+  ) {
+    return (current - min) / (max - min);
+  }
+
   @override
   Widget build(BuildContext context) {
     final dailySpendingSummary = monthlySummary.dailySpendingSummary ?? [];
     final adjustedCount = _calculateInitialDayAdjustment();
     final itemCount = _calculateItemCount();
     final totalDaysInMonth = _getTotalDaysInMonth();
+
+    final maxTransactionOfTheMonth = monthlySummary.maxTransaction;
+    final minTransactionOfTheMonth = monthlySummary.minTransaction;
+
+
 
     return ConfigurationProvider(
       config: config,
@@ -114,11 +127,17 @@ class MonthlySpendingHeatChart extends StatelessWidget {
               final cellType = _getCellType(
                 dailyTransaction.date ?? DateTime.now(),
               );
+              final opacity = normaliseOpacity(
+                dailyTransaction.totalSpending(false),
+                maxTransactionOfTheMonth,
+                minTransactionOfTheMonth,
+              );
 
               return _Cell(
                 transaction: dailyTransaction,
                 onTap: () => onCellTapped?.call(dailyTransaction),
                 type: cellType,
+                opacity: opacity,
               );
             },
           ),

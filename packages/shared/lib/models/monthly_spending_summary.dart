@@ -18,4 +18,19 @@ class MonthlySpendingSummary {
     );
     return sum;
   }
+
+  double get maxTransaction {
+    return dailySpendingSummary
+            ?.map((element) => element.totalSpending(false))
+            .reduce((curr, next) => curr > next ? curr : next) ??
+        0;
+  }
+
+  double get minTransaction {
+    // Get the min value using reduce
+    return dailySpendingSummary
+            ?.map((element) => element.totalSpending(false))
+            .reduce((curr, next) => curr < next ? curr : next) ??
+        0;
+  }
 }
