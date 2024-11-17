@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:scapia_assignment/core/widgets/loading_indicator.dart';
+import 'package:scapia_assignment/features/presentation/my_spending/blocs/card_summary_bloc/card_summary_bloc.dart';
 import 'package:scapia_assignment/features/presentation/my_spending/screens/spending_details_screen.dart';
 import 'package:shared/extensions/date_time_extension.dart';
 import 'package:spending_heatmap_chart/spending_heatmap_chart.dart';
-import '../blocs/card_summary_bloc/card_summary_bloc.dart';
 
 class MySpendingScreen extends StatefulWidget {
   const MySpendingScreen({super.key});
@@ -67,7 +67,7 @@ class _MySpendingScreenState extends State<MySpendingScreen> {
                             }
                             Navigator.push(
                               context,
-                              MaterialPageRoute(
+                              MaterialPageRoute<MySpendingScreen>(
                                 builder: (context) => SpendingDetailsScreen(
                                   spendingSummary: dailySummary,
                                 ),

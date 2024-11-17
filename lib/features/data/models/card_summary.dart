@@ -7,9 +7,6 @@ part 'card_summary.g.dart';
   fieldRename: FieldRename.snake,
 )
 class CardSummary {
-  final String? userId;
-  final int? creditCardLimit;
-  final List<DailySpendingSummary>? transactions;
 
   CardSummary({
     this.userId,
@@ -19,6 +16,10 @@ class CardSummary {
 
   factory CardSummary.fromJson(Map<String, dynamic> json) =>
       _$CardSummaryFromJson(json);
+
+  final String? userId;
+  final int? creditCardLimit;
+  final List<DailySpendingSummary>? transactions;
 
   Map<String, dynamic> toJson() => _$CardSummaryToJson(this);
 }

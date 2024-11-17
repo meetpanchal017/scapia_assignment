@@ -9,12 +9,11 @@ import 'package:shared/models/daily_spending_summary.dart';
 part '../widgets/transaction_prefix.dart';
 
 class SpendingDetailsScreen extends StatefulWidget {
-  final DailySpendingSummary spendingSummary;
 
   const SpendingDetailsScreen({
-    super.key,
-    required this.spendingSummary,
+    required this.spendingSummary, super.key,
   });
+  final DailySpendingSummary spendingSummary;
 
   @override
   State<SpendingDetailsScreen> createState() => _SpendingDetailsScreenState();
@@ -70,7 +69,7 @@ class _SpendingDetailsScreenState extends State<SpendingDetailsScreen> {
                             size: 18,
                           ),
                           trailing: _TransactionPrefix(
-                              type: transaction.transactionType),
+                              type: transaction.transactionType,),
                         );
                       },
                       separatorBuilder: (BuildContext context, int index) {

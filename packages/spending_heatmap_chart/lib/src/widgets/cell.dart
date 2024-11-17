@@ -13,11 +13,6 @@ class _Cell extends StatelessWidget {
     required this.opacity,
   });
 
-  double _getPercentage(double current, double total) {
-    if (total == 0) return 0;
-    return (current * 100) / total;
-  }
-
   BoxDecoration _getDecoration(HeatMapChartConfiguration config) {
     final cellColor = config.cellColor.withOpacity(opacity);
 
@@ -29,7 +24,7 @@ class _Cell extends StatelessWidget {
 
     // Fallback to default decoration with condition for different cell types
     final baseDecoration = BoxDecoration(
-      color: cellColor ?? Colors.transparent,
+      color: cellColor,
       // Default to transparent if no spending
       borderRadius: BorderRadius.circular(8),
     );

@@ -1,11 +1,11 @@
 part of '../screens/spending_details_screen.dart';
 
 class _TransactionPrefix extends StatelessWidget {
-  final TransactionType? type;
 
   const _TransactionPrefix({
     required this.type,
   });
+  final TransactionType? type;
 
   IconData? get transactionIcon {
     if (type == TransactionType.credit) {

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'features/presentation/my_spending/blocs/card_summary_bloc/card_summary_bloc.dart';
-import 'features/presentation/my_spending/screens/my_spending_screen.dart';
+import 'package:scapia_assignment/features/presentation/my_spending/blocs/card_summary_bloc/card_summary_bloc.dart';
+import 'package:scapia_assignment/features/presentation/my_spending/screens/my_spending_screen.dart';
 
 void main() {
   runApp(const MyApp());

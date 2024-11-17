@@ -1,12 +1,11 @@
 import 'dart:convert';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:scapia_assignment/core/constants/assets.dart';
+import 'package:scapia_assignment/features/data/models/card_summary.dart';
 import 'package:shared/shared.dart';
-import '../../../../../core/constants/assets.dart';
-import '../../../../data/models/card_summary.dart';
 
 part 'card_summary_event.dart';
-
 part 'card_summary_state.dart';
 
 class CardSummaryBloc extends Bloc<CardSummaryEvent, CardSummaryState> {
@@ -15,7 +14,7 @@ class CardSummaryBloc extends Bloc<CardSummaryEvent, CardSummaryState> {
   }
 
   Future<void> _getAllTransactions(
-      GetAllTransactionsEvent event, Emitter<CardSummaryState> emit) async {
+      GetAllTransactionsEvent event, Emitter<CardSummaryState> emit,) async {
     emit(CardSummaryLoadingState());
     try {
       // Load the data from the JSON
@@ -27,7 +26,7 @@ class CardSummaryBloc extends Bloc<CardSummaryEvent, CardSummaryState> {
       emit(CardSummarySuccessState(
         creditCardLimit: cardSummary.creditCardLimit?.toDouble() ?? 0,
         spendingSummary: spendingSummary,
-      ));
+      ),);
     } on Exception catch (e) {
       emit(CardSummaryFailureState(error: e.toString()));
     }
@@ -36,12 +35,12 @@ class CardSummaryBloc extends Bloc<CardSummaryEvent, CardSummaryState> {
   Future<CardSummary> _loadCardSummaryFromJson() async {
     final jsonString = await rootBundle.loadString(Assets.mockTransactionJson);
     final jsonData = jsonDecode(jsonString);
-    return CardSummary.fromJson(jsonData);
+    return CardSummary.fromJson(jsonData as Map<String, dynamic>);
   }
 
   List<MonthlySpendingSummary> _processTransactions(CardSummary cardSummary) {
     // Map where the key is the month (int) and the value is a MonthlySpendingSummary
-    final Map<int, MonthlySpendingSummary> monthlySummaries = {};
+    final monthlySummaries = <int, MonthlySpendingSummary>{};
 
     // Iterate over each transaction and group them by month
     cardSummary.transactions?.forEach((transaction) {
